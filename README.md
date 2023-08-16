@@ -2,8 +2,9 @@
 
 ## References links
 
+- [How Fabric networks are structured](https://hyperledger-fabric.readthedocs.io/en/release-2.5/network/network.html)
 - [Hyperledger Fabric 1.4.0](https://github.com/deusimarferreira/hyperledger-fabric/tree/master)
-- [Curso de Hyperledger Fabric LatinoAmerica 2020](https://github.com/blockchainempresarial/curso-hyperledger-fabric/tree/master)
+- [Course of Hyperledger Fabric](https://github.com/blockchainempresarial/curso-hyperledger-fabric/tree/master)
 - [Golang](https://hub.docker.com/_/golang)
 
 ## Configuring the environment
