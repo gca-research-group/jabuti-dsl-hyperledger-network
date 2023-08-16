@@ -1,0 +1,5 @@
+**.gz
+**/channel-artifacts
+**/crypto-config
+**/var/run
+**/log.txt
